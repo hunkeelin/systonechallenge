@@ -5,7 +5,7 @@ This cli takes in user inputs in terms of csv and give an output on whether the 
 
 | Input Numerical Value | Input Unit of Measure | Target Unit of Measure | Student response | Output | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
-| Header      | Title       | asdfasdf    | asdfsadf    | asdfsdf     | 
+| Header      | <code style="color : red">abc</code>       | asdfasdf    | asdfsadf    | asdfsdf     | 
 | Header      | Title       | asdfasdf    | asdfsadf    | asdfsdf     | 
 
 
